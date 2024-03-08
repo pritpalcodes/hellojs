@@ -1,0 +1,12 @@
+{
+  "name": "prit",
+  "version": "1.0.0",
+  "description": "learning_what_does_npm_init_does",
+  "main": "first.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "pritpals_command": "node hello.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
